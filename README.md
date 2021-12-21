@@ -2,7 +2,7 @@
 
 ![](https://github.com/AhmadBintangA/Project-Basdat-siBandar/blob/main/1639984936681.png)
 
-> This is a ReadMe template to help save you time and effort.
+> Si Bandar (Si Pembantu Bendahar) - Sekarang lebih cepat, aman, dan terpercaya.
 
 ---
 
