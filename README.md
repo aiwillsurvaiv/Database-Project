@@ -10,8 +10,8 @@
 
 - [Deskripsi](#deskripsi)
 - [Website](#website)
-- [Doumentasi Kode](#references)
-- [Anggota Kelompok](#author-info)
+- [Doumentasi Kode](#dokumentasi-kode)
+- [Anggota Kelompok](#anggota-kelompok)
 
 ---
 
@@ -29,51 +29,42 @@ Aplikasi berbasis web yang membantu bendahara sehingga proses pembukuan dapat be
 
 ## Website
 
-#### Login
+#### 1. Login
 
 ![](https://github.com/aiwillsurvaiv/test/blob/main/login.jpeg)
 
-#### Halaman Utama
+#### 2. Halaman Utama
 
-![](https://github.com/aiwillsurvaiv/test/blob/main/halaman-utama.jpeg)
+![](https://github.com/aiwillsurvaiv/test/blob/main/halaman-utama.png)
 
-#### Update Saldo
+#### 3. Update Saldo
 
-![](https://github.com/aiwillsurvaiv/test/blob/main/update-saldo.jpeg)
+![](https://github.com/aiwillsurvaiv/test/blob/main/update-saldo.png)
 
-#### Catat Pengeluaran
+#### 4. Catat Pengeluaran
 
-![](https://github.com/aiwillsurvaiv/test/blob/main/catatan-pengeluaran.jpeg)
+![](https://github.com/aiwillsurvaiv/test/blob/main/catat-pengeluaran.png)
 
-#### Rekapan Transaksi
+#### 5. Rekapan Transaksi
 
-![](https://github.com/aiwillsurvaiv/test/blob/main/rekapan-transaksi.jpeg)
+![](https://github.com/aiwillsurvaiv/test/blob/main/rekapan-transaksi.png)
 
-#### Daftar Inventaris
+#### 6. Daftar Inventaris
 
-![](https://github.com/aiwillsurvaiv/test/blob/main/daftar-inventaris.jpeg)
+![](https://github.com/aiwillsurvaiv/test/blob/main/daftar-inventaris.png)
 
-#### Installation
+---
 
-
-
-#### API Reference
+## Dokumentasi Kode
 
 ```html
     <p>dummy code</p>
 ```
-[Back To The Top](#read-me-template)
 
 ---
 
-## References
-[Back To The Top](#references)
-
----
-
-## Author Info
+## Anggota Kelompok
 
 - Twitter - [@jamesqquick](https://twitter.com/jamesqquick)
 - Website - [James Q Quick](https://jamesqquick.com)
 
-[Back To The Top](#read-me-template)
