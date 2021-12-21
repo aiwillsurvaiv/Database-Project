@@ -29,11 +29,29 @@ Aplikasi berbasis web yang membantu bendahara sehingga proses pembukuan dapat be
 
 ## Website
 
-#### Halaman Login
+#### Login
 
 ![](https://github.com/aiwillsurvaiv/test/blob/main/login.jpeg)
 
-#### Halaman Login
+#### Halaman Utama
+
+![](https://github.com/aiwillsurvaiv/test/blob/main/halaman-utama.jpeg)
+
+#### Update Saldo
+
+![](https://github.com/aiwillsurvaiv/test/blob/main/update-saldo.jpeg)
+
+#### Catat Pengeluaran
+
+![](https://github.com/aiwillsurvaiv/test/blob/main/catatan-pengeluaran.jpeg)
+
+#### Rekapan Transaksi
+
+![](https://github.com/aiwillsurvaiv/test/blob/main/rekapan-transaksi.jpeg)
+
+#### Daftar Inventaris
+
+![](https://github.com/aiwillsurvaiv/test/blob/main/daftar-inventaris.jpeg)
 
 #### Installation
 
