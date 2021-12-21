@@ -65,6 +65,11 @@ Aplikasi berbasis web yang membantu bendahara sehingga proses pembukuan dapat be
 
 ## Anggota Kelompok
 
-- Twitter - [@jamesqquick](https://twitter.com/jamesqquick)
-- Website - [James Q Quick](https://jamesqquick.com)
+| Nama                  | NIM           | Username Github                   |
+| :-------------------- | :------------ | :-------------------------------- |
+| Ahmad Bintang Arif    | G6401201025   | https://github.com/AhmadBintangA  |
+| Aiko Nur Fajrin D     | G6401201062   | https://github.com/aiwillsurvaiv  |
+| M Hadziq Firza R      | G6401201055   | https://github.com/MuhamadFirza   |
+| Surya Fatihah H       | G6401201036   | https://github.com/Jeeefry        |
+
 
