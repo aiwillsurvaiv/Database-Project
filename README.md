@@ -1,6 +1,6 @@
 # Read Me Template
 
-![Project Image](https://i.pinimg.com/736x/47/17/da/4717dabce1d65a0d467072295d4c14d2.jpg)
+![Project Image](blob:https://web.whatsapp.com/0e4ac67f-9a49-45ad-a002-c6fb96751088)
 
 > This is a ReadMe template to help save you time and effort.
 
