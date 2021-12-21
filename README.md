@@ -2,7 +2,8 @@
 
 ![](https://github.com/AhmadBintangA/Project-Basdat-siBandar/blob/main/1639984936681.png)
 
-> Si Bandar (Si Pembantu Bendahar) - Sekarang lebih cepat, aman, dan terpercaya.
+> Si Bandar (Si Pembantu Bendahara)
+> Sekarang lebih cepat, aman, dan terpercaya.
 
 ---
 
