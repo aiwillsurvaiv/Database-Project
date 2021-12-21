@@ -27,6 +27,17 @@ Aplikasi berbasis web yang membantu bendahara sehingga proses pembukuan dapat be
 
 ---
 
+## Anggota Kelompok
+
+| Nama                  | NIM           | Username Github                   |
+| :-------------------- | :------------ | :-------------------------------- |
+| Ahmad Bintang Arif    | G6401201025   | https://github.com/AhmadBintangA  |
+| Aiko Nur Fajrin D     | G6401201062   | https://github.com/aiwillsurvaiv  |
+| M Hadziq Firza R      | G6401201055   | https://github.com/MuhamadFirza   |
+| Surya Fatihah H       | G6401201036   | https://github.com/Jeeefry        |
+
+---
+
 ## Website
 
 #### 1. Login
@@ -59,15 +70,5 @@ Aplikasi berbasis web yang membantu bendahara sehingga proses pembukuan dapat be
 
 <p><img align="right" alt="gif" src="https://github.com/aiwillsurvaiv/test/blob/main/%E2%97%8F-formtransaksi.php-basdatfinal-Visual-Studio-Code-2021-12-21-16-12-30.gif" /></p>
 
----
-
-## Anggota Kelompok
-
-| Nama                  | NIM           | Username Github                   |
-| :-------------------- | :------------ | :-------------------------------- |
-| Ahmad Bintang Arif    | G6401201025   | https://github.com/AhmadBintangA  |
-| Aiko Nur Fajrin D     | G6401201062   | https://github.com/aiwillsurvaiv  |
-| M Hadziq Firza R      | G6401201055   | https://github.com/MuhamadFirza   |
-| Surya Fatihah H       | G6401201036   | https://github.com/Jeeefry        |
 
 
