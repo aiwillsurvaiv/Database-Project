@@ -8,7 +8,7 @@
 
 ### Daftar Isi
 
-- [Deskripsi](#description)
+- [Deskripsi](#deskripsi)
 - [Website](#how-to-use)
 - [Doumentasi Kode](#references)
 - [Anggota Kelompok](#author-info)
