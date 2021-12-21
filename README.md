@@ -57,9 +57,7 @@ Aplikasi berbasis web yang membantu bendahara sehingga proses pembukuan dapat be
 
 ## Dokumentasi Kode
 
-```html
-    <p>dummy code</p>
-```
+<p><img align="right" alt="gif" src="" width="500" height="320" /></p>
 
 ---
 
