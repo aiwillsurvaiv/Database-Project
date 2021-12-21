@@ -84,5 +84,3 @@ SOFTWARE.
 - Website - [James Q Quick](https://jamesqquick.com)
 
 [Back To The Top](#read-me-template)
-
-icon.png
