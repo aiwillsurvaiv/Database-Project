@@ -1,6 +1,6 @@
 # Read Me Template
 
-![Project Image](blob:https://web.whatsapp.com/0e4ac67f-9a49-45ad-a002-c6fb96751088)
+![Project Image](https://web.whatsapp.com/0e4ac67f-9a49-45ad-a002-c6fb96751088)
 
 > This is a ReadMe template to help save you time and effort.
 
