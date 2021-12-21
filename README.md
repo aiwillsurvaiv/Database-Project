@@ -44,7 +44,7 @@ Creating ReadMe's for your Github repository can be tedious.  I hope this templa
 ---
 
 ## References
-[Back To The Top](#read-me-template)
+[Back To The Top](#references)
 
 ---
 
