@@ -9,9 +9,9 @@
 ### Daftar Isi
 
 - [Deskripsi](#deskripsi)
+- [Anggota Kelompok](#anggota-kelompok)
 - [Website](#website)
 - [Doumentasi Kode](#dokumentasi-kode)
-- [Anggota Kelompok](#anggota-kelompok)
 
 ---
 
