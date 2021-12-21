@@ -2,19 +2,16 @@
 
 ![](https://github.com/AhmadBintangA/Project-Basdat-siBandar/blob/main/1639984936681.png)
 
-> Si Bandar (Si Pembantu Bendahara)
-> Sekarang lebih cepat, aman, dan terpercaya.
+> Si Bandar (Si Pembantu Bendahara) - Sekarang lebih cepat, aman, dan terpercaya.
 
 ---
 
-### Table of Contents
-You're sections headers will be used to reference location of destination.
+### Daftar Isi
 
-- [Description](#description)
-- [How To Use](#how-to-use)
-- [References](#references)
-- [License](#license)
-- [Author Info](#author-info)
+- [Deskripsi](#description)
+- [Website](#how-to-use)
+- [Doumentasi Kode](#references)
+- [Anggota Kelompok](#author-info)
 
 ---
 
