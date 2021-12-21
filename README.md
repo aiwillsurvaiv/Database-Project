@@ -1,4 +1,4 @@
-# Proyek Basis Data Si Bandar
+# Proyek Basis Data Si Bandar (#read-me-template)
 
 ![](https://github.com/AhmadBintangA/Project-Basdat-siBandar/blob/main/1639984936681.png)
 
@@ -15,14 +15,15 @@
 
 ---
 
-## Description
+## Deskripsi
 
-Creating ReadMe's for your Github repository can be tedious.  I hope this template can save you time and effort as well as provide you with some consistency across your projects.
+Aplikasi berbasis web yang membantu bendahara sehingga proses pembukuan dapat berjalan konsisten dan sistematis karena proses pembukuannya dibantu oleh sistem dan database yang telah dibuat.
 
-#### Technologies
+#### Dikembangkan dengan Bahasa Pemrograman
 
-- Technology 1
-- Technology 2
+- HTML
+- PHP
+- CSS
 
 [Back To The Top](#read-me-template)
 
